@@ -1,0 +1,32 @@
+.panel-heading {
+	text-align: center;
+}
+
+.panel-body {
+	padding-left: 60px;
+
+}
+
+.input-title {
+	text-align: center;
+	font-weight: bold;
+	border-bottom: grey;
+}
+
+.input-body {
+	text-align: center;
+	border-top: grey;
+	font-weight: bold;
+
+}
+
+.userInputBody {
+	border: 1px solid grey;
+}
+
+.col {
+    display: block;
+    float: left;
+    margin: 1% 0 1% 1.6%;
+}
+
